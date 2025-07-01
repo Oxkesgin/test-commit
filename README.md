@@ -1,2 +1,2 @@
 # test-commit
-Deneme 1
+Deneme 2
